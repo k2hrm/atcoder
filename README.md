@@ -24,3 +24,5 @@ https://atcoder.jp/contests/abs/tasks/abc085_b
 ABC085C-Otoshidama.py
 https://atcoder.jp/contests/abs/tasks/abc085_c
 
+A-ShoutEveryday.py
+https://atcoder.jp/contests/abc367/tasks/abc367_a
