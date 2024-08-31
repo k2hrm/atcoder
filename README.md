@@ -21,3 +21,6 @@ https://atcoder.jp/contests/abs/tasks/abc088_b
 ABC085B-KagamiMochi.py
 https://atcoder.jp/contests/abs/tasks/abc085_b
 
+ABC085C-Otoshidama.py
+https://atcoder.jp/contests/abs/tasks/abc085_c
+
