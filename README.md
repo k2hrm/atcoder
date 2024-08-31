@@ -15,3 +15,5 @@ https://atcoder.jp/contests/abs/tasks/abc087_b
 ABC083B-SomeSums.py
 https://atcoder.jp/contests/abs/tasks/abc083_b
 
+ABC088B-CardGameforTwo.py
+https://atcoder.jp/contests/abs/tasks/abc088_b
