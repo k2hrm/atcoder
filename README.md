@@ -26,3 +26,6 @@ https://atcoder.jp/contests/abs/tasks/abc085_c
 
 A-ShoutEveryday.py
 https://atcoder.jp/contests/abc367/tasks/abc367_a
+
+B-Cut.0.py
+https://atcoder.jp/contests/abc367/tasks/abc367_b
