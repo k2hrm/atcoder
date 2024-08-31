@@ -33,3 +33,5 @@ https://atcoder.jp/contests/abc367/tasks/abc367_b
 A-Cut.py
 https://atcoder.jp/contests/abc368/tasks/abc368_a
 
+B-Decrease2maxelements.py
+https://atcoder.jp/contests/abc368/tasks/abc368_b
