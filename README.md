@@ -17,3 +17,7 @@ https://atcoder.jp/contests/abs/tasks/abc083_b
 
 ABC088B-CardGameforTwo.py
 https://atcoder.jp/contests/abs/tasks/abc088_b
+
+ABC085B-KagamiMochi.py
+https://atcoder.jp/contests/abs/tasks/abc085_b
+
